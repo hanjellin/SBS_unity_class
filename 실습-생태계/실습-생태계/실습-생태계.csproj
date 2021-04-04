@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D5480131-544A-4CFA-BF8F-2E3339CF7681}</ProjectGuid>
+    <ProjectGuid>{A8FA6038-306D-416D-A36B-E657D24372C1}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>실습</RootNamespace>
-    <AssemblyName>실습</AssemblyName>
+    <RootNamespace>실습_생태계</RootNamespace>
+    <AssemblyName>실습-생태계</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

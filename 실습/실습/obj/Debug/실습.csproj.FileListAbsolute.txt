@@ -1,0 +1,2 @@
+C:\Users\user\source\repos\실습\실습\obj\Debug\실습.csprojAssemblyReference.cache
+C:\Users\user\source\repos\실습\실습\obj\Debug\실습.csproj.CoreCompileInputs.cache
